@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.card{
+    @apply bg-red-300 py-2 px-6 rounded my-2;
+}
+
+h1{
+    @apply font-bold text-4xl;
+}
+
+.montserrat{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.shadow{
+    box-shadow: 17px 15px 18px #0000003B;
+}
+
+.button-shadow{
+    box-shadow: 10px 12px 12px #00000057;
+}
+
+.btn{
+    @apply  text-lg inline rounded-xl px-16 py-2 2xl:text-3xl 2xl:py-3 2xl:px-24;
+           
+}
+.btn{
+   transition: all 0.3s ease-in-out ;
+  
+}
+.primary-btn{
+    @apply bg-blue-600 text-white hover:bg-blue-900
+    ; 
+}
+.secondary-btn{
+    @aaply bg-white text-blue-600 hover:bg-gray-500;
+}
+
+.darkmode{
+    @apply  dark:bg-[#464646]
+}
+
+.darkmode{
+    @apply dark:text-[#B5B5B5]
+}
+
+aside{
+    transform:translateX(-100%);
+    transition:all 0.3s ease-in-out;
+}
+
+
+  .slick-prev::before, .slick-next::before { color: gray !important; }
