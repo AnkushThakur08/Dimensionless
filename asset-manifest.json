@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Dimensionless/static/css/main.d23867e3.css",
-    "main.js": "/Dimensionless/static/js/main.6d4ae24b.js",
+    "main.css": "/Dimensionless/static/css/main.37c7ef2a.css",
+    "main.js": "/Dimensionless/static/js/main.949d6774.js",
     "static/js/787.038a2d3e.chunk.js": "/Dimensionless/static/js/787.038a2d3e.chunk.js",
     "static/media/art-03.svg": "/Dimensionless/static/media/art-03.32244ab18324fea715d73b042911bb36.svg",
     "static/media/art2.png": "/Dimensionless/static/media/art2.f2f0b15b89e86287563b.png",
@@ -43,12 +43,12 @@
     "static/media/slick.ttf": "/Dimensionless/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Dimensionless/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Dimensionless/index.html",
-    "main.d23867e3.css.map": "/Dimensionless/static/css/main.d23867e3.css.map",
-    "main.6d4ae24b.js.map": "/Dimensionless/static/js/main.6d4ae24b.js.map",
+    "main.37c7ef2a.css.map": "/Dimensionless/static/css/main.37c7ef2a.css.map",
+    "main.949d6774.js.map": "/Dimensionless/static/js/main.949d6774.js.map",
     "787.038a2d3e.chunk.js.map": "/Dimensionless/static/js/787.038a2d3e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d23867e3.css",
-    "static/js/main.6d4ae24b.js"
+    "static/css/main.37c7ef2a.css",
+    "static/js/main.949d6774.js"
   ]
 }
