@@ -1,9 +1,5 @@
 import art from "../../../assets/images/logo512.png";
 import model from "../../../assets/images/model1.jpg";
-import best from "../../../assets/Tatto-Work/best.jpeg";
-import best2 from "../../../assets/Tatto-Work/best2.jpeg";
-import best3 from "../../../assets/Tatto-Work/best3.jpeg";
-import best4 from "../../../assets/Tatto-Work/best4.jpeg";
 import work1 from "../../../assets/Tatto-Work/work1.jpg";
 import work2 from "../../../assets/Tatto-Work/work2.jpg";
 import work3 from "../../../assets/Tatto-Work/work3.jpg";
@@ -21,82 +17,82 @@ function Work() {
       <div className="dark:bg-[#202124] flex flex-wrap justify-evenly">
         <div className="w-6/12 lg:w-3/12 px-2">
           <div className=" flex justify-center rounded-3xl bg-[#EEEEEE]">
-            <img className="w-2/3" src={best} />
+            <img className="w-2/3" src={work1} />
           </div>
         </div>
         <div className="w-6/12 lg:w-3/12 px-2">
           <div className=" flex justify-center rounded-3xl bg-[#EEEEEE]">
-            <img className="w-2/3" src={best2} />
+            <img className="w-2/3" src={work2} />
           </div>
         </div>
         <div className="w-6/12 mt-6 lg:mt-0 lg:w-3/12 px-2">
           <div className=" flex justify-center rounded-3xl bg-[#EEEEEE]">
-            <img className="w-2/3" src={best3} />
+            <img className="w-2/3" src={work3} />
           </div>
         </div>
         <div className="w-6/12 mt-6 lg:mt-0 lg:w-3/12 px-2 ">
           <div className=" flex justify-center rounded-3xl bg-[#EEEEEE]">
-            <img className="w-2/3" src={best4} />
+            <img className="w-2/3" src={work4} />
           </div>
         </div>
         <div className="w-6/12 mt-6 lg:mt-0 lg:w-3/12 px-2 pt-4">
           <div className=" flex justify-center rounded-3xl bg-[#EEEEEE]">
-            <img className="w-2/3" src={best} />
+            <img className="w-2/3" src={work5} />
           </div>
         </div>
         <div className="w-6/12 mt-6 lg:mt-0 lg:w-3/12 px-2 pt-4">
           <div className=" flex justify-center rounded-3xl bg-[#EEEEEE]">
-            <img className="w-2/3" src={best2} />
+            <img className="w-2/3" src={work6} />
           </div>
         </div>
         <div className="w-6/12 mt-6 lg:mt-0 lg:w-3/12 px-2 pt-4">
           <div className=" flex justify-center rounded-3xl bg-[#EEEEEE]">
-            <img className="w-2/3" src={best3} />
+            <img className="w-2/3" src={work7} />
           </div>
         </div>
         <div className="w-6/12 mt-6 lg:mt-0 lg:w-3/12 px-2 pt-4">
           <div className=" flex justify-center rounded-3xl bg-[#EEEEEE]">
-            <img className="w-2/3" src={best4} />
+            <img className="w-2/3" src={work8} />
           </div>
         </div>
         <div className="w-6/12 mt-6 lg:mt-0 lg:w-3/12 px-2 pt-4">
           <div className=" flex justify-center rounded-3xl bg-[#EEEEEE]">
-            <img className="w-2/3" src={best} />
+            <img className="w-2/3" src={work8} />
           </div>
         </div>
         <div className="w-6/12 mt-6 lg:mt-0 lg:w-3/12 px-2 pt-4">
           <div className=" flex justify-center rounded-3xl bg-[#EEEEEE]">
-            <img className="w-2/3" src={best2} />
+            <img className="w-2/3" src={work8} />
           </div>
         </div>
         <div className="w-6/12 mt-6 lg:mt-0 lg:w-3/12 px-2 pt-4">
           <div className=" flex justify-center rounded-3xl bg-[#EEEEEE]">
-            <img className="w-2/3" src={best3} />
+            <img className="w-2/3" src={work8} />
           </div>
         </div>
         <div className="w-6/12 mt-6 lg:mt-0 lg:w-3/12 px-2 pt-4">
           <div className=" flex justify-center rounded-3xl bg-[#EEEEEE]">
-            <img className="w-2/3" src={best4} />
+            <img className="w-2/3" src={work8} />
           </div>
         </div>
         <div className="w-6/12 mt-6 lg:mt-0 lg:w-3/12 px-2 pt-4">
           <div className=" flex justify-center rounded-3xl bg-[#EEEEEE]">
-            <img className="w-2/3" src={best} />
+            <img className="w-2/3" src={work8} />
           </div>
         </div>
         <div className="w-6/12 mt-6 lg:mt-0 lg:w-3/12 px-2 pt-4">
           <div className=" flex justify-center rounded-3xl bg-[#EEEEEE]">
-            <img className="w-2/3" src={best2} />
+            <img className="w-2/3" src={work8} />
           </div>
         </div>
         <div className="w-6/12 mt-6 lg:mt-0 lg:w-3/12 px-2 pt-4">
           <div className=" flex justify-center rounded-3xl bg-[#EEEEEE]">
-            <img className="w-2/3" src={best3} />
+            <img className="w-2/3" src={work8} />
           </div>
         </div>
         <div className="w-6/12 mt-6 lg:mt-0 lg:w-3/12 px-2 pt-4">
           <div className=" flex justify-center rounded-3xl bg-[#EEEEEE]">
-            <img className="w-2/3" src={best4} />
+            <img className="w-2/3" src={work8} />
           </div>
         </div>
       </div>
