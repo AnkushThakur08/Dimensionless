@@ -1,26 +1,34 @@
 {
   "files": {
     "main.css": "/Dimensionless/static/css/main.37c7ef2a.css",
-    "main.js": "/Dimensionless/static/js/main.d3ec4076.js",
+    "main.js": "/Dimensionless/static/js/main.fd98dad2.js",
     "static/js/787.038a2d3e.chunk.js": "/Dimensionless/static/js/787.038a2d3e.chunk.js",
     "static/media/art-03.svg": "/Dimensionless/static/media/art-03.32244ab18324fea715d73b042911bb36.svg",
     "static/media/art2.png": "/Dimensionless/static/media/art2.f2f0b15b89e86287563b.png",
+    "static/media/work15.jpg": "/Dimensionless/static/media/work15.4d9c0cdd8850bab670a1.jpg",
     "static/media/work2.jpg": "/Dimensionless/static/media/work2.cfe044357b6229eac5a3.jpg",
     "static/media/work5.jpg": "/Dimensionless/static/media/work5.540f906f6da94195925d.jpg",
+    "static/media/work14.jpg": "/Dimensionless/static/media/work14.86e687d13be7a957dc87.jpg",
     "static/media/work8.jpg": "/Dimensionless/static/media/work8.86e687d13be7a957dc87.jpg",
     "static/media/work3.jpg": "/Dimensionless/static/media/work3.983e61ea7cd67fe472e9.jpg",
+    "static/media/work12.jpg": "/Dimensionless/static/media/work12.65b6f0b99bb4e700beb1.jpg",
     "static/media/work7.jpg": "/Dimensionless/static/media/work7.65b6f0b99bb4e700beb1.jpg",
     "static/media/Group 1764.png": "/Dimensionless/static/media/Group 1764.6c11b9552f3b9a8f3685.png",
     "static/media/Tattoo-01.png": "/Dimensionless/static/media/Tattoo-01.0446649afdff1b324ea2.png",
+    "static/media/work13.jpg": "/Dimensionless/static/media/work13.7b3d5e0c792ca8a8ab22.jpg",
+    "static/media/work16.jpg": "/Dimensionless/static/media/work16.18b8e997547bfce205cb.jpg",
+    "static/media/work9.jpg": "/Dimensionless/static/media/work9.9ca5df6515fd869033c1.jpg",
     "static/media/work1.jpg": "/Dimensionless/static/media/work1.f2fa6c9da00a2f4ebdbb.jpg",
     "static/media/craft.svg": "/Dimensionless/static/media/craft.df8dd2dcf206cfd464bc9b34e6fc85a2.svg",
     "static/media/icons-04@2x.png": "/Dimensionless/static/media/icons-04@2x.52c8a6eab2710f88b5d9.png",
     "static/media/work6.jpg": "/Dimensionless/static/media/work6.3659447409d76cb1ce6e.jpg",
     "static/media/work4.jpg": "/Dimensionless/static/media/work4.4bd0ab7ba7b98a6b462e.jpg",
+    "static/media/work11.jpg": "/Dimensionless/static/media/work11.dab98e540839b5c01b16.jpg",
     "static/media/tattoo.png": "/Dimensionless/static/media/tattoo.c546d7e896cf7231bc79.png",
     "static/media/art-01.svg": "/Dimensionless/static/media/art-01.3ab02a9d917a88038956d7818f666d1c.svg",
     "static/media/books1.svg": "/Dimensionless/static/media/books1.18a46180aa478e8c76749d448232a46d.svg",
     "static/media/art1.jpg": "/Dimensionless/static/media/art1.2d591eb7ed6988464a11.jpg",
+    "static/media/work10.jpg": "/Dimensionless/static/media/work10.c53bba4070d094f27022.jpg",
     "static/media/mindfulness.svg": "/Dimensionless/static/media/mindfulness.5deaeeb6608e78240d7aae2a3ea31ca9.svg",
     "static/media/workshops.png": "/Dimensionless/static/media/workshops.11479be827f91d63cef4.png",
     "static/media/art.jpg": "/Dimensionless/static/media/art.1953be975105ae40f074.jpg",
@@ -52,11 +60,11 @@
     "static/media/slick.woff": "/Dimensionless/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Dimensionless/index.html",
     "main.37c7ef2a.css.map": "/Dimensionless/static/css/main.37c7ef2a.css.map",
-    "main.d3ec4076.js.map": "/Dimensionless/static/js/main.d3ec4076.js.map",
+    "main.fd98dad2.js.map": "/Dimensionless/static/js/main.fd98dad2.js.map",
     "787.038a2d3e.chunk.js.map": "/Dimensionless/static/js/787.038a2d3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37c7ef2a.css",
-    "static/js/main.d3ec4076.js"
+    "static/js/main.fd98dad2.js"
   ]
 }
