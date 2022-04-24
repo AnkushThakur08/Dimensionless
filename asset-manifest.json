@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Dimensionless/static/css/main.37c7ef2a.css",
-    "main.js": "/Dimensionless/static/js/main.949d6774.js",
+    "main.js": "/Dimensionless/static/js/main.77f73277.js",
     "static/js/787.038a2d3e.chunk.js": "/Dimensionless/static/js/787.038a2d3e.chunk.js",
     "static/media/art-03.svg": "/Dimensionless/static/media/art-03.32244ab18324fea715d73b042911bb36.svg",
     "static/media/art2.png": "/Dimensionless/static/media/art2.f2f0b15b89e86287563b.png",
@@ -44,11 +44,11 @@
     "static/media/slick.woff": "/Dimensionless/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Dimensionless/index.html",
     "main.37c7ef2a.css.map": "/Dimensionless/static/css/main.37c7ef2a.css.map",
-    "main.949d6774.js.map": "/Dimensionless/static/js/main.949d6774.js.map",
+    "main.77f73277.js.map": "/Dimensionless/static/js/main.77f73277.js.map",
     "787.038a2d3e.chunk.js.map": "/Dimensionless/static/js/787.038a2d3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37c7ef2a.css",
-    "static/js/main.949d6774.js"
+    "static/js/main.77f73277.js"
   ]
 }
