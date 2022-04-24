@@ -15,24 +15,25 @@ import Community from "./components/community";
 import Mindfulness from "./components/mindfulness";
 import Categories from "./components/categories";
 import ScrollToTop from "./components/ScrollToTop";
-import {useState} from 'react'
+import { useState } from "react";
 function App() {
   const [toggleDark, settoggleDark] = useState(false);
-   const handleModeChange = () => {
-     settoggleDark(!toggleDark);
+  const handleModeChange = () => {
+    settoggleDark(!toggleDark);
 
-     //toggleDark == false  or true
-     //first condition passes !true => false
-     //second condition passes !false => true
-     // console.log(toggleDark,'toggle')
-   };
+    //toggleDark == false  or true
+    //first condition passes !true => false
+    //second condition passes !false => true
+    // console.log(toggleDark,'toggle')
+  };
   return (
-    <div className={toggleDark?"dark ":""}>
+    <div className={toggleDark ? "dark " : ""}>
       <Router>
         <ScrollToTop />
         <Header toggleDark={toggleDark} handleModeChange={handleModeChange} />
         <Routes>
           <Route path="/" element={<Homepage />} />
+          <Route path="/Dimensionless" element={<Homepage />} />
           <Route path="/about-us" element={<About />} />
           <Route path="/explore" element={<Explore />} />
           <Route path="/tattoos" element={<Tattoos />} />
