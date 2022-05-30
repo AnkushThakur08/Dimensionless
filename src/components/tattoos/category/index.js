@@ -1,11 +1,17 @@
 import React, { Component } from "react";
 import Slider from "react-slick";
-import "slick-carousel/slick/slick.css"; 
+import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import model1 from "../../../assets/images/model1.jpg"
+import cate1 from "../../../assets/tattoo/cate1.png";
+import cate2 from "../../../assets/tattoo/cate2.png";
+import cate3 from "../../../assets/tattoo/cate3.png";
+import cate4 from "../../../assets/tattoo/cate4.png";
+import cate5 from "../../../assets/tattoo/cate5.png";
+import cate6 from "../../../assets/tattoo/cate6.png";
+
 function Category() {
   var settings = {
-    arrows:true,
+    arrows: true,
     dots: true,
     infinite: false,
     speed: 500,
@@ -44,61 +50,110 @@ function Category() {
       <h2 className="text-center text-4xl font-semibold  py-8"> Categories </h2>
       <Slider className="py-10" {...settings}>
         <div className="p-6">
-        <div className=' rounded-xl   overflow-hidden'>
-                   <div style={{}}  className='flex justify-center'>
-                       <img style={{objectFit: "cover"}} className='rounded-xl w-full' src={model1}/>
-                   </div>
-             </div>
+          <div className=" rounded-xl   overflow-hidden">
+            <div style={{}} className="flex justify-center">
+              <img
+                style={{ objectFit: "cover" }}
+                className="rounded-xl w-full"
+                src={cate1}
+              />
+            </div>
+            <h6 className="font-bold text-lg 2xl:text-2xl text-center">
+              Bookworm
+            </h6>
+          </div>
         </div>
         <div className="p-6">
-        <div className=' rounded-xl   overflow-hidden'>
-                   <div style={{}}  className='flex justify-center'>
-                       <img style={{objectFit: "cover"}} className='rounded-xl w-full' src={model1}/>
-                   </div>
-             </div>
+          <div className=" rounded-xl   overflow-hidden">
+            <div style={{}} className="flex justify-center">
+              <img
+                style={{ objectFit: "cover" }}
+                className="rounded-xl w-full"
+                src={cate2}
+              />
+            </div>
+            <h6 className="font-bold text-lg 2xl:text-2xl text-center">
+              Spiritual
+            </h6>
+          </div>
         </div>
         <div className="p-6">
-        <div className=' rounded-xl   overflow-hidden'>
-                   <div style={{}}  className='flex justify-center'>
-                       <img style={{objectFit: "cover"}} className='rounded-xl w-full' src={model1}/>
-                   </div>
-             </div>
+          <div className=" rounded-xl   overflow-hidden">
+            <div style={{}} className="flex justify-center">
+              <img
+                style={{ objectFit: "cover" }}
+                className="rounded-xl w-full"
+                src={cate3}
+              />
+            </div>
+            <h6 className="font-bold text-lg 2xl:text-2xl text-center">BFFs</h6>
+          </div>
         </div>
         <div className="p-6">
-        <div className=' rounded-xl   overflow-hidden'>
-                   <div style={{}}  className='flex justify-center'>
-                       <img style={{objectFit: "cover"}} className='rounded-xl w-full' src={model1}/>
-                   </div>
-             </div>
+          <div className=" rounded-xl   overflow-hidden">
+            <div style={{}} className="flex justify-center">
+              <img
+                style={{ objectFit: "cover" }}
+                className="rounded-xl w-full"
+                src={cate4}
+              />
+            </div>
+            <h6 className="font-bold text-lg 2xl:text-2xl text-center">
+              Anime
+            </h6>
+          </div>
         </div>
         <div className="p-6">
-        <div className=' rounded-xl   overflow-hidden'>
-                   <div style={{}}  className='flex justify-center'>
-                       <img style={{objectFit: "cover"}} className='rounded-xl w-full' src={model1}/>
-                   </div>
-             </div>
+          <div className=" rounded-xl   overflow-hidden">
+            <div style={{}} className="flex justify-center">
+              <img
+                style={{ objectFit: "cover" }}
+                className="rounded-xl w-full"
+                src={cate5}
+              />
+            </div>
+            <h6 className="font-bold text-lg 2xl:text-2xl text-center">
+              Schoolcore
+            </h6>
+          </div>
         </div>
         <div className="p-6">
-        <div className=' rounded-xl   overflow-hidden'>
-                   <div style={{}}  className='flex justify-center'>
-                       <img style={{objectFit: "cover"}} className='rounded-xl w-full' src={model1}/>
-                   </div>
-             </div>
+          <div className=" rounded-xl   overflow-hidden">
+            <div style={{}} className="flex justify-center">
+              <img
+                style={{ objectFit: "cover" }}
+                className="rounded-xl w-full"
+                src={cate6}
+              />
+            </div>
+            <h6 className="font-bold text-lg 2xl:text-2xl text-center">
+              Cartoon
+            </h6>
+          </div>
         </div>
-        <div className="p-6">
-        <div className=' rounded-xl   overflow-hidden'>
-                   <div style={{}}  className='flex justify-center'>
-                       <img style={{objectFit: "cover"}} className='rounded-xl w-full' src={model1}/>
-                   </div>
-             </div>
-        </div>
-        <div className="p-6">
-        <div className=' rounded-xl   overflow-hidden'>
-                   <div style={{}}  className='flex justify-center'>
-                       <img style={{objectFit: "cover"}} className='rounded-xl w-full' src={model1}/>
-                   </div>
-             </div>
-        </div>
+        {/* <div className="p-6">
+          <div className=" rounded-xl   overflow-hidden">
+            <div style={{}} className="flex justify-center">
+              <img
+                style={{ objectFit: "cover" }}
+                className="rounded-xl w-full"
+                src={cate1}
+              />
+            </div>
+          </div>
+        </div> */}
+
+        {/* <div className="p-6">
+          <div className=" rounded-xl   overflow-hidden">
+            <div style={{}} className="flex justify-center">
+              <img
+                style={{ objectFit: "cover" }}
+                className="rounded-xl w-full"
+                src={cate2}
+              />
+            </div>
+          </div>
+        </div> */}
       </Slider>
     </div>
   );
