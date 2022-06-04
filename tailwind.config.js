@@ -1,4 +1,5 @@
-module.exports = {
+const withMT = require("@material-tailwind/react/utils/withMT");
+module.exports = withMT({
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   darkMode: "class",
   theme: {
@@ -10,7 +11,7 @@ module.exports = {
         brand_dark_green: "#113b3e",
         brand_black: "#18191a",
         brand_white: "#e8e8e8",
-        brand_gray:"#707070"
+        brand_gray: "#707070",
       },
       opacity: {
         10: "0.1",
@@ -48,4 +49,4 @@ module.exports = {
     },
   },
   plugins: [],
-};
+});
