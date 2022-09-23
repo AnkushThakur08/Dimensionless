@@ -1,7 +1,7 @@
 {
   "name": "dimensonless",
   "version": "0.1.0",
-  "homepage": "https://AnkushThakur08.github.io/Dimensionless",
+  "homepage": "https://dimensionless.studio",
   "private": true,
   "dependencies": {
     "@material-tailwind/react": "^1.0.3",

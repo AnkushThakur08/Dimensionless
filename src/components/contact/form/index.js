@@ -46,7 +46,7 @@ function Form() {
             </div>
             </div>
             <div className="flex justify-center 2xl:pt-20  pt-4 items-center">
-              <button className="dark:bg-[#8AB4F8] dark:text-black bg-[#1A73E8] shadow montserrat text-white rounded-lg px-8 py-1 lg:px-14 2xl:px-20 2xl:py-4 2xl:rounded-2xl 2xl:text-2xl ">
+              <button className="dark:bg-[#8AB4F8] dark:text-black bg-[#1A73E8] shadow montserrat text-white rounded-lg px-8 py-1 lg:px-14 2xl:px-20 2xl:py-4 2xl:rounded-2xl 2xl:text-2xl">
                 Book Now
               </button>
             </div>
